@@ -5,5 +5,5 @@
    - Expected to graduate at the Spring of 2026
 - 📫 How to reach me
   - Phone Number: (630) 901 - 4798
-  - Email: k15karthik@yahoo.com
+  - Email: karthikkes8970@gmail.com
 
