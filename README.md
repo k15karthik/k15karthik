@@ -142,7 +142,7 @@ Full-stack zoo management system • REST APIs • AWS-hosted MySQL • Animal c
 
 ---
 
-### Vedic Text Embedding Engine
+### Sanskrit ML: Vedic Text Embedding Engine
 [![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/)
 [![NLP](https://img.shields.io/badge/NLP-00A86B?style=flat-square&logo=nlp&logoColor=white)](https://en.wikipedia.org/wiki/Natural_language_processing)
 
@@ -155,13 +155,8 @@ Semantic search system for Rigveda using transformer embeddings • Cosine simil
 ## GitHub Analytics
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=k15karthik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k15karthik&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=k15karthik&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=k15karthik&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=k15karthik&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF" alt="Activity Graph"/>
+</div>
 
 </div>
 
@@ -184,7 +179,7 @@ Google Developer Student Club
 
 ## Beyond Code
 
-<img align="left" width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<!-- <img align="left" width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"> -->
 
 **What Drives Me:**
 - Transforming raw data into actionable insights
