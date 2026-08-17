@@ -13,9 +13,9 @@
 class DataEngineer:
     def __init__(self):
         self.name = "Karthik Kesavarapu"
-        self.role = "Computer Science Student @ UIC"
+        self.role = "MPCS Grad Student @ UChicago (AI Specialization)"
         self.location = "Naperville, IL"
-        self.current_interests = ["Data Science", "Full-Stack Development"]
+        self.current_interests = ["Data Engineering", "Agentic AI", "Full-Stack Development"]
         
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together")
@@ -24,9 +24,7 @@ me = DataEngineer()
 me.say_hi()
 ```
 
-I'm a **data engineering enthusiast** and **computer science student** at the University of Illinois Chicago, passionate about building **scalable cloud-based solutions** and **AI-powered applications**. Currently working as a **Data Engineering Intern** at Seyon Solutions, where I design ETL pipelines and implement Medallion Architecture on Azure Databricks.
-
-When I'm not wrangling data, you'll find me exploring **Sanskrit texts** with NLP, solving algorithmic challenges, or building full-stack applications that make a difference.
+I'm a **data engineering enthusiast** and incoming **MPCS graduate student** at the University of Chicago specializing in Artificial Intelligence, passionate about building **scalable cloud-based solutions** and **AI-powered applications**.
 
 ---
 
@@ -34,9 +32,10 @@ When I'm not wrangling data, you'll find me exploring **Sanskrit texts** with NL
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
+- Starting the **MPCS program at UChicago** with an AI specialization
+- Building **agentic AI workflows** for enterprise decision-making
 - Building **ETL pipelines** with Azure Databricks & Unity Catalog
 - Creating **interactive Power BI dashboards** for business analytics
-- Developing **AI-powered educational chatbots** with Next.js
 - Deep diving into **Delta Lake** and **Medallion Architecture**
 
 <br clear="right"/>
@@ -84,6 +83,11 @@ When I'm not wrangling data, you'll find me exploring **Sanskrit texts** with NL
 <tr>
 <td width="50%">
 
+### Treasury Management @ Old National Bank
+**Treasury Management Intern** *(May 2026 - Aug 2026)*
+- Validated financial data across all domains of the bank in **Databricks**
+- Designed and built **"TM Next Product"**, an agentic workflow that helps Treasury Management consultants determine the best next product to recommend to their clients
+
 ### Data Engineering @ Seyon Solutions
 **Azure Databricks Specialist** *(Aug 2025 - Present)*
 - Implemented **Medallion Architecture** (Bronze → Silver → Gold)
@@ -114,6 +118,15 @@ When I'm not wrangling data, you'll find me exploring **Sanskrit texts** with NL
 ## Featured Projects
 
 <div align="center">
+
+### TM Next Product
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://databricks.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org/)
+[![Agentic AI](https://img.shields.io/badge/Agentic_AI-6E56CF?style=flat-square&logo=openai&logoColor=white)](#)
+
+Agentic workflow built for Old National Bank's Treasury Management team • Recommends the next best product for consultants to pitch to clients • Built on top of bank-wide financial data validated in Databricks
+
+---
 
 ### Educational Chatbot
 [![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
@@ -166,6 +179,9 @@ Semantic search system for Rigveda using transformer embeddings • Cosine simil
 
 <div align="center">
 
+**University of Chicago (UChicago)**  
+*Master of Science in Computer Science, MPCS — AI Specialization* | *Sept 2026 - Dec 2027*
+
 **University of Illinois Chicago (UIC)**  
 *Bachelor of Science in Computer Science* | *Aug 2023 - May 2026*
 
@@ -188,6 +204,7 @@ Google Developer Student Club
 - Building tools that improve operational efficiency
 
 **Current Interests:**
+- Agentic AI workflows for enterprise use cases
 - Delta Lake & Lakehouse Architecture
 - Real-time data streaming with Apache Spark
 - Semantic search and NLP applications
